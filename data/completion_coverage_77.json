@@ -1,0 +1,618 @@
+[
+  {
+    "slug": "007-first-light",
+    "title": "007 First Light",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "apex-legends",
+    "title": "Apex Legends",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "assassins-creed-odyssey",
+    "title": "Assassin’s Creed Odyssey",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "assassins-creed-origins",
+    "title": "Assassin’s Creed Origins",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "assassins-creed-valhalla",
+    "title": "Assassin’s Creed Valhalla",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "battlefield-1",
+    "title": "Battlefield 1",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "battlefield-v",
+    "title": "Battlefield V",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "beyond-two-souls",
+    "title": "Beyond: Two Souls",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "bloodborne",
+    "title": "Bloodborne",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "call-of-duty-black-ops-iii",
+    "title": "Call of Duty: Black Ops III",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "celeste",
+    "title": "Celeste",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "counter-strike-2",
+    "title": "Counter-Strike 2",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "cuphead",
+    "title": "Cuphead",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "main_hours": null,
+    "completionist_hours": 103,
+    "source_url": "https://www.gameinformer.com/2022/01/10/comparing-dying-light-2s-length-to-other-notoriously-long-games",
+    "status": "partially_verified"
+  },
+  {
+    "slug": "days-gone",
+    "title": "Days Gone",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "dead-space",
+    "title": "Dead Space",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "death-stranding",
+    "title": "Death Stranding",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "detroit-become-human",
+    "title": "Detroit: Become Human",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "disco-elysium",
+    "title": "Disco Elysium",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "doom-eternal",
+    "title": "Doom Eternal",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "dying-light",
+    "title": "Dying Light",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "dying-light-2-stay-human",
+    "title": "Dying Light 2 Stay Human",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "ea-sports-fc-25",
+    "title": "EA Sports FC 25",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "elden-ring",
+    "title": "Elden Ring",
+    "main_hours": 60.1,
+    "completionist_hours": 136.2,
+    "source_url": "https://fous.com/tools/howlongtobeat",
+    "status": "source_recorded"
+  },
+  {
+    "slug": "f1-24",
+    "title": "F1 24",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "far-cry-5",
+    "title": "Far Cry 5",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "far-cry-6",
+    "title": "Far Cry 6",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "final-fantasy-vii",
+    "title": "Final Fantasy VII",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "fortnite",
+    "title": "Fortnite",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "ghost-of-tsushima",
+    "title": "Ghost of Tsushima",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "god-of-war",
+    "title": "God of War",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "god-of-war-ragnarok",
+    "title": "God of War Ragnarök",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "grand-theft-auto-v",
+    "title": "Grand Theft Auto V",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "grand-theft-auto-san-andreas",
+    "title": "Grand Theft Auto: San Andreas",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "hades",
+    "title": "Hades",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "heavy-rain",
+    "title": "Heavy Rain",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "hogwarts-legacy",
+    "title": "Hogwarts Legacy",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "hollow-knight",
+    "title": "Hollow Knight",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "horizon-forbidden-west",
+    "title": "Horizon Forbidden West",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "horizon-zero-dawn",
+    "title": "Horizon Zero Dawn",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "left-4-dead-2",
+    "title": "Left 4 Dead 2",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "marvels-spider-man-2",
+    "title": "Marvel’s Spider-Man 2",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "marvels-spider-man-remastered",
+    "title": "Marvel’s Spider-Man Remastered",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "marvels-spider-man-miles-morales",
+    "title": "Marvel’s Spider-Man: Miles Morales",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "minecraft",
+    "title": "Minecraft",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "nba-2k25",
+    "title": "NBA 2K25",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "need-for-speed-heat",
+    "title": "Need for Speed Heat",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "need-for-speed-unbound",
+    "title": "Need for Speed Unbound",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "outlast",
+    "title": "Outlast",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "outlast-2",
+    "title": "Outlast 2",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "pubg-battlegrounds",
+    "title": "PUBG: Battlegrounds",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "palworld",
+    "title": "Palworld",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "portal-2",
+    "title": "Portal 2",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "main_hours": null,
+    "completionist_hours": 172,
+    "source_url": "https://www.gameinformer.com/2022/01/10/comparing-dying-light-2s-length-to-other-notoriously-long-games",
+    "status": "partially_verified"
+  },
+  {
+    "slug": "resident-evil-2",
+    "title": "Resident Evil 2",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "resident-evil-3",
+    "title": "Resident Evil 3",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "resident-evil-4",
+    "title": "Resident Evil 4",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "resident-evil-4-2005",
+    "title": "Resident Evil 4 (2005)",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "resident-evil-7-biohazard",
+    "title": "Resident Evil 7 Biohazard",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "resident-evil-village",
+    "title": "Resident Evil Village",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "sekiro-shadows-die-twice",
+    "title": "Sekiro: Shadows Die Twice",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "silent-hill-2",
+    "title": "Silent Hill 2",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "stardew-valley",
+    "title": "Stardew Valley",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "super-mario-odyssey",
+    "title": "Super Mario Odyssey",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "super-metroid",
+    "title": "Super Metroid",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "the-crew-motorfest",
+    "title": "The Crew Motorfest",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "the-elder-scrolls-v-skyrim",
+    "title": "The Elder Scrolls V: Skyrim",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "the-last-of-us-part-i",
+    "title": "The Last of Us Part I",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "the-last-of-us-part-ii-remastered",
+    "title": "The Last of Us Part II Remastered",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "the-witcher-3",
+    "title": "The Witcher 3",
+    "main_hours": null,
+    "completionist_hours": 173,
+    "source_url": "https://www.gameinformer.com/2022/01/10/comparing-dying-light-2s-length-to-other-notoriously-long-games",
+    "status": "partially_verified"
+  },
+  {
+    "slug": "uncharted-legacy-of-thieves-collection",
+    "title": "Uncharted: Legacy of Thieves Collection",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "undertale",
+    "title": "Undertale",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  },
+  {
+    "slug": "valorant",
+    "title": "Valorant",
+    "main_hours": null,
+    "completionist_hours": null,
+    "source_url": null,
+    "status": "awaiting_verification"
+  }
+]

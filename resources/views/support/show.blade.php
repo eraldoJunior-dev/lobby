@@ -1,0 +1,5 @@
+@extends('layouts.feed')
+@section('title','Chamado de suporte')
+@section('content')
+<div class="page-body" style="max-width:760px"><h1>Chamado #{{ $ticket->id }} — {{ $ticket->subject }}</h1><p>Status: {{ $ticket->status }}</p><p style="white-space:pre-wrap">{{ $ticket->description }}</p>@if($ticket->target_url)<p>Referência informada: {{ $ticket->target_url }}</p>@endif<hr>@foreach($replies as $reply)<div style="margin:12px 0;padding:12px;background:#29213c;border-radius:10px"><b>{{ $reply->username }}</b><p style="white-space:pre-wrap">{{ $reply->message }}</p></div>@endforeach<form method="POST" action="{{ route('support.reply',$ticket->id) }}">@csrf<textarea name="message" required minlength="2" maxlength="4000" rows="4" style="width:100%;padding:12px;background:#21192e;color:white" placeholder="Escreva sua resposta"></textarea><button class="btn-primary">Enviar resposta</button></form><p><a href="{{ route('support.mine') }}">Meus chamados</a></p></div>
+@endsection

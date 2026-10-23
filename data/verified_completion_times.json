@@ -1,0 +1,22 @@
+{
+  "elden-ring": {
+    "main_hours": 60.1,
+    "completionist_hours": 136.2,
+    "source_url": "https://fous.com/tools/howlongtobeat"
+  },
+  "the-witcher-3": {
+    "main_hours": null,
+    "completionist_hours": 173,
+    "source_url": "https://www.gameinformer.com/2022/01/10/comparing-dying-light-2s-length-to-other-notoriously-long-games"
+  },
+  "cyberpunk-2077": {
+    "main_hours": null,
+    "completionist_hours": 103,
+    "source_url": "https://www.gameinformer.com/2022/01/10/comparing-dying-light-2s-length-to-other-notoriously-long-games"
+  },
+  "red-dead-redemption-2": {
+    "main_hours": null,
+    "completionist_hours": 172,
+    "source_url": "https://www.gameinformer.com/2022/01/10/comparing-dying-light-2s-length-to-other-notoriously-long-games"
+  }
+}

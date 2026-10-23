@@ -1,0 +1,8 @@
+@extends('layouts.feed')
+@section('title','Notificações')
+@section('content')
+<div class="page-body lobby-notification-page"><header class="lobby-notification-head"><div><span class="lobby-kicker">CENTRAL DE ATIVIDADES</span><h1>Notificações <span class="lobby-unread-badge">{{ $unread }}</span></h1><p class="muted">Novidades sobre suas publicações, amizades e conversas.</p></div><form action="{{ route('notifications.read-all') }}" method="POST">@csrf<button class="btn-outline" type="submit" @disabled(!$unread)>✓ Marcar todas como lidas</button></form></header>
+<section class="lobby-notification-list">@forelse($items as $item) @php($data=$item->data) @php($kind=$data['kind'] ?? 'default')
+<form method="POST" action="{{ route('notifications.open',$item->id) }}" class="lobby-notification-item {{ $item->read_at ? '' : 'lobby-is-unread' }}">@csrf<button type="submit" class="lobby-notification-button"><span class="lobby-notification-icon">@if(isset(['follow'=>'👥','reaction'=>'💜','reply'=>'💬','guide'=>'📘','invite'=>'🎮','event'=>'📅'][$kind])){{ ['follow'=>'👥','reaction'=>'💜','reply'=>'💬','guide'=>'📘','invite'=>'🎮','event'=>'📅'][$kind] }}@else<x-icon name="bell" />@endif</span><span class="lobby-notification-body"><strong>{{ $data['message'] ?? 'Você tem uma nova notificação' }}</strong><small>{{ $item->created_at->diffForHumans() }}</small></span>@unless($item->read_at)<span class="lobby-notification-dot"></span>@endunless<span aria-hidden="true">›</span></button></form>
+@empty <div class="lobby-notification-empty"><x-icon name="bell" /><h2>Tudo em dia!</h2><p>Quando alguém interagir com você, as notificações aparecerão aqui.</p></div>@endforelse</section><div style="margin-top:20px">{{ $items->links() }}</div></div>
+@endsection
